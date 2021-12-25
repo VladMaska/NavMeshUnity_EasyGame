@@ -1,0 +1,17 @@
+Scene 1 - Three.cs | Interfejsy
+    Tylko Debug ( Console )
+
+Scene 2 - Nine.cs | Nawigację po Navmeshu
+    Obiekt gry podąża za kursorem
+
+Scene 3 - Six.cs | Zapisywanie gry
+    Użyłem mojej biblioteki | DataBase.cs
+    Movement [ W, A, S, D ]
+    Projektowanie kodu
+
+Scene 4 - Ten.cs | Rysowanie lini LinerRendererem
+    Projektowanie kodu
+
+Scene 5 - Two.cs | Dziedziczenie
+    W kodzie przycisk do pobierania danych
+    Projektowanie kodu
